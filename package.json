@@ -1,0 +1,20 @@
+{
+  "name": "Note",
+  "version": "1.0.0",
+  "description": "记事本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiilienaya/Note.git"
+  },
+  "keywords": [],
+  "author": "xiilienaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiilienaya/Note/issues"
+  },
+  "homepage": "https://github.com/xiilienaya/Note#readme"
+}
